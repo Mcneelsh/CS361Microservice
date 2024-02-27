@@ -1,6 +1,8 @@
 # CS361Microservice
 Microservice
 
+All communication through this microservice is done through reading/writing to text files. A run command file and an output file are defined.
+
 To request data, you must read the "outputfile.txt" file
 To seperate the string of numbers, each number is seperate by a space. Use a delimiter function to break these apart into individual numbers.
 
